@@ -15,6 +15,7 @@ I Currently have the following skills:
 - Linux command line knowledge.
  
 I am looking to learn:
+- SQL and database management
 - Lisp
 - Go
 - Functional program design
