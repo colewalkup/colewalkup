@@ -6,6 +6,7 @@
 I Currently have the following skills:
 - Rust
 - C++
+- C
 - Basic x86 Assembly
 - HTML
 - CSS
@@ -15,6 +16,7 @@ I Currently have the following skills:
  
 I am looking to learn:
 - Lisp
+- Go
 - Functional program design
 - Graphics Programming
 - Linux kernel programming
