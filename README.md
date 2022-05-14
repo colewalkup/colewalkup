@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colewalkup
 - 👀 I’m interested in software development and system administration mainly on linux
-- 🌱 I’m currently learning lisp and functional programming design
+- 🌱 I’m currently learning Go
 - 📫 You can reach me at colewalkup@tutanota.com
 
 I Currently have the following skills:
@@ -16,8 +16,6 @@ I Currently have the following skills:
 - Linux command line knowledge.
  
 I am looking to learn:
-- Lisp
-- Go
 - Functional program design
 - Graphics Programming
 - Linux kernel programming
